@@ -1,10 +1,13 @@
-## Welcome to GitHub Pages
+# Milap Patel's First CS193 Homework
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Favorite things about CS193
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Student Professor
+- Funny Memes
+- No Exams or tests
+- 30% grade just on attendance
+- Homeworks are due after 2 weeks
 
-### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
